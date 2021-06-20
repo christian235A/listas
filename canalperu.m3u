@@ -1,0 +1,72 @@
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="Latina HD" group="Canal Perú" logo="https://www.latina.pe/wp-content/themes/genesis-latina/img/logo-movil.png" tvg-country="Perú", Latina HD
+https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_2.m3u8?&
+
+#EXTINF:0 type="estream" channelId="-1" name="AméricaTV HD" group="Canal Perú" logo="https://cds.tvgo.pe/f/desktop/img/tvgo-2020-invertido.svg" tvg-country="Perú", AméricaTV HD
+https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=wQv0BQJI1M8L3dQRxBUUanHMdA8dQPjn&sid=evb7iz8ZcLL1QzMxpocQ92RnWcW3y8tD&pid=ftnwYOjyjTmnNjFxH4ZfHsyTMsa3Tle9&an=screen&at=web-app&av=v5.2.144&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&res=720x406&without_cookies=false&dnt=true&access_token=PAjI6yeuB8Ut7pQeYiDCmrNvgCvFbLcP2DBHFMYv95LGIYSf8JX7GhGQozomBBJfhNAcoSXBIuB
+
+#EXTINF:0 type="estream" channelId="-1" name="PlayBoy HD" group="xxx" logo="https://vercanalestv.live/wp-content/uploads/2020/11/Playboy-768x589.jpg" tvg-country="Perú", PlayBoy HD
+https://m2j3tv8e8t.azcdn728.net:8443/hls/c8mj2hpihbpkp.m3u8?s=tRJjZvRgs_2xP84KIDRQ6w&e=1623921296
+
+#EXTINF:0 type="estream" channelId="-1" name="ATVPLUS HD" group="Canal Perú" logo="https://atv.pe/wp-content/uploads/2020/09/logo-atvmas-player.png" tvg-country="Perú", ATVPLUS HD
+https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIzOTg1MTY0LCJzZXNzaW9uIjoiMTkwLjIzOS4yMzguMzYiLCJ3aGl0ZWxpc3QiOlsiMTkwLjIzOS4yMzguMzYiXX0sInNpZ25hdHVyZSI6IjFjNWY4NTM0Y2IxM2ZlYmMyOTYxMmZkMGVlNzE1NDdiOTU0NjdjNzUifQ==
+
+#EXTINF:0 type="estream" channelId="-1" name="ATV HD" group="Canal Perú" logo="https://atv.pe/wp-content/uploads/2020/09/logo-atv-player.png" tvg-country="Perú", ATV HD
+https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIzOTg1MzI0LCJzZXNzaW9uIjoiMTkwLjIzOS4yMzguMzYiLCJ3aGl0ZWxpc3QiOlsiMTkwLjIzOS4yMzguMzYiXX0sInNpZ25hdHVyZSI6IjQ0MDQwYWJkZDc1MjY3MDg5MjIzMjY3YjYyMThlZTNjN2M2M2Y3ZTAifQ==
+
+#EXTINF:0 type="estream" channelId="-1" name="Venus HD" group="xxx" logo="https://vercanalestv.live/wp-content/uploads/2020/01/venus-hd-768x589.jpg" tvg-country="Perú", Venus HD
+https://m2j3tv8e8t.azcdn728.net:8443/hls/vwzh6npjwqalyzk.m3u8?s=rI2Km9YmE-vr7oprtH5etg&e=1623924401
+
+#EXTINF:0 type="estream" channelId="-1" name="Tom Y Jerry HD" group="Infantiles" logo="https://www.telezumiko.com/img/tomyjerry.png" tvg-country="Perú", Tom Y Jerry HD
+https://r5---sn-p5qlsnrl.googlevideo.com/videoplayback?expire=1623925272&ei=uM3KYPXoHsOYobIPh-Gp6AI&ip=2001%3A1388%3A70c5%3Ad94e%3A216f%3Aeebd%3Ae034%3A96e9&id=kbJtsU0VjFM.1&itag=247&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=yt_live_broadcast&requiressl=yes&mh=dX&mm=44%2C26&mn=sn-p5qlsnrl%2Csn-hp57yne7&ms=lva%2Conr&mv=m&mvi=5&pl=54&initcwndbps=751250&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=uT6vADGsZDOOlO_b4iWJMXQF&gir=yes&mt=1623900752&fvip=5&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=dKfRRtclkUs1jg&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRAIgGKwF4wHrvRo4giJ3DcfnPhxke1AhoaJEVtunrpKRn8ECIDo9f9J-m887cMEX8o4QWU-5UCZBOwcNiA-G75_B33Ft&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgAmmdTe4diGYNFoPTO8mQJb_2KnvxBg9wlLBRXcU6n4UCIQDEvcv-6FliJqWgf_hpFW3UkogibQdeX0zr9Qz8VOjvGQ%3D%3D&alr=yes&cpn=TKd64x9lXXTePQ71&cver=1.20210614.1.0&headm=4&rn=1&rbuf=0
+
+#EXTINF:0 type="estream" channelId="-1" name="Panamericana HD" group="Canal Perú" logo="https://panamericana.pe/imagenes/logo_2020.png?20210616" tvg-country="Perú", Panamericana HD
+http://cdnhd.iblups.com/hls/ptv2.m3u8
+
+#EXTINF:0 type="estream" channelId="-1" name="Tvperu HD" group="Canal Perú" logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png" tvg-country="Perú", Tvperu HD
+http://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+
+#EXTINF:0 type="estream" channelId="-1" name="Tvperu Noticias HD" group="Canal Perú" logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_NOTICIAS_PLAY.png" tvg-country="Perú", Tvperu Noticias HD
+http://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
+
+#EXTINF:0 type="estream" channelId="-1" name="Willax HD" group="Canal Perú" logo="http://cdn.teleon.tv/logo/willax_tv_pe.png" tvg-country="Perú", Willax HD
+https://www.dailymotion.com/cdn/live/video/x7x4dgx.m3u8?sec=VsdA0So2pMm9RZA3XkLA0bD7ymaZ6p_usY4LsKzWuvcSWRQWxArsdzKwrVw7QyeH8c88s5KkexYiirkrcGtV2Q
+
+#EXTINF:0 type="estream" channelId="-1" name="ipe HD" group="Canal Perú" logo="https://www.canalipe.tv/sites/default/themes/concise_drupal/static/media/header/canalipe.svg" tvg-country="Perú", ipe HD
+https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:0 type="estream" channelId="-1" name="Vision Noticias Tv HD" group="Canal Perú" logo="https://www.vnp.pe/wp-content/uploads/2020/11/logo-vnp-color.png" tvg-country="Perú", Vision Noticias Tv HD
+https://videoserver.tmcreativos.com:1936/visionnoticias/visionnoticias/chunklist_w846004273.m3u8
+
+#EXTINF:0 type="estream" channelId="-1" name="Vision Tv Música HD" group="Canal Perú" logo="http://teleon.tv/images/logos/vision-tv-musica.png" tvg-country="Perú", Vision Tv Música HD
+https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/chunklist_w337605190.m3u8
+
+#EXTINF:0 type="estream" channelId="-1" name="Cartoon Network HD" group="Infantiles" logo="https://vercanalestv.live/wp-content/uploads/2021/03/cartoonnetwork.png" tvg-country="Perú", Cartoon Network HD
+https://edge-live12-sl.cvattv.com.ar//live/c3eds/CartoonNetwork/SA_Live_dash_enc_2A/CartoonNetwork.mpd
+
+#EXTINF:0 type="estream" channelId="-1" name="Perú:ATVHD" group="Perú" logo="https://atv.pe/wp-content/uploads/2020/09/logo-atv-player.png" tvg-country="Perú", ATVHD
+
+#EXTINF:0 type="estream" channelId="-1" name="Perú:ATVHD" group="Perú" logo="https://atv.pe/wp-content/uploads/2020/09/logo-atv-player.png" tvg-country="Perú", ATVHD
+
+
+#EXTINF:0 type="estream" channelId="-1" name="Perú:ATVHD" group="Perú" logo="https://atv.pe/wp-content/uploads/2020/09/logo-atv-player.png" tvg-country="Perú", ATVHD
+
+#EXTINF:0 type="estream" channelId="-1" name="Perú:ATVHD" group="Perú" logo="https://atv.pe/wp-content/uploads/2020/09/logo-atv-player.png" tvg-country="Perú", ATVHD
+#EXTINF:0 type="estream" channelId="-1" name="Perú:ATVHD" group="Perú" logo="https://atv.pe/wp-content/uploads/2020/09/logo-atv-player.png" tvg-country="Perú", ATVHD
+#EXTINF:0 type="estream" channelId="-1" name="Perú:ATVHD" group="Perú" logo="https://atv.pe/wp-content/uploads/2020/09/logo-atv-player.png" tvg-country="Perú", ATVHD
+#EXTINF:0 type="estream" channelId="-1" name="Perú:ATVHD" group="Perú" logo="https://atv.pe/wp-content/uploads/2020/09/logo-atv-player.png" tvg-country="Perú", ATVHD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
